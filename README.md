@@ -40,7 +40,7 @@ The code defines a form with different types of fields like input, select, switc
 # User Interface Screenshots:
 
 ### File Structure:
-![image](https://i.postimg.cc/BvTXPKNL/Screenshot-2023-04-25-at-8-26-09-PM.png)
+[![Screenshot-2023-04-25-at-8-26-09-PM.png](https://i.postimg.cc/BvTXPKNL/Screenshot-2023-04-25-at-8-26-09-PM.png)](https://postimg.cc/Jyh19tfM)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
